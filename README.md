@@ -10,7 +10,6 @@
  - 罗先生/1988 
  - 本科/萌鹿大学计算机系 
  - 工作年限：4年
- - 微博：[@JobDeer](http://weibo.com/jobdeer) （``` 如果没有技术相关内容，也可以不放 ```）
  - Github: 项目未上线，暂时不公开
  - 期望职位：Web前端高级程序员 / IOS开发程序员(react native)
  - 期望薪资：税前月薪20k~25k，特别喜欢的公司可例外
@@ -48,25 +47,23 @@
 
 以下均为我熟练使用的技能
 
-- Web开发：Node
-- Web框架：Express
-- 前端框架：Bootstrap/AngularJS/React/HTML5/ClosureLibrary/ReactNative/Vue/Egret ...
-- 前端工具：Bower/Gulp/SaSS/Less/
-- 数据库相关：SQLite
-- 版本管理、文档和自动化部署工具：Git,Gerrit
-- 常用编辑器: Xcode/VisualCode/WebStorm/Sublime
-- 单元测试：Karma
+ - Web开发：Node
+ - Web框架：Express
+ - 前端框架：Bootstrap/AngularJS/React/HTML5/ClosureLibrary/ReactNative/Vue/Egret ...
+ - 前端工具：Bower/Gulp/SaSS/Less
+ - 数据库相关：SQLite / MangoDB
+ - 版本管理、文档和自动化部署工具：Git,Gerrit
+ - 常用编辑器: Xcode/VisualCode/WebStorm/Sublime
+ - 单元测试：Karma
 
 ## 参考技能关键字
 
--ReactNative / React / Angular / Jquery
--html5 / css3
--ClosureLibrary
--Webpack
--TypeScript / ES6
--Async / Await / Promise
--Redux
--Git
--Prototype
--Websocket
--Node
+ - ReactNative / React / Angular / Jquery
+ - html5 / css3
+ - ClosureLibrary
+ - Webpack / gulp / github / gerrit
+ - TypeScript / ES6
+ - Redux
+ - Prototype
+ - Websocket
+ - Node / Express / Python
