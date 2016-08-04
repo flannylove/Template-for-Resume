@@ -24,7 +24,7 @@
 Use TypeScropt factory IOS client width ReactNative，Write general component，define the data tree，review the coding factoryed by subordinates, take charge of daily of management progress.
 
 
-### Live rich client in web
+### rich client for Live in web
 Use es6 （compilar width babel） + Angular 1.5 + Closure Library refactoring the web，build environment width Node + Express， review the coding factoryed by subordinates
 
 
