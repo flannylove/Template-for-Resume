@@ -31,7 +31,7 @@ Use es6 （compilar width babel） + Angular 1.5 + Closure Library refactoring t
 
 
  
-## Shanghai Weitan Science and Technology Ltd. （ 2014年9月 ~ 2015年8月 ）
+## Shanghai Weitan Science and Technology Ltd. （ 2014.9 ~ 2015.8 ）
 
 ### Lite client in Wehchat
 build clinet in Wechat business，write activity page in mobile browser widht HTML5，use Egret to factory HTML5 game page in mobile
