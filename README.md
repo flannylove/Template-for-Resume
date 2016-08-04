@@ -54,7 +54,7 @@ build clinet in Wechat business，write activity page in mobile browser widht HT
 
 ## Key words for Skill
 
- - ReactNative / React / Angular / Jquery
+ - ReactNative / React / Angular / Vue
  - html5 / css3
  - ClosureLibrary
  - Webpack / gulp / github / gerrit
