@@ -19,8 +19,8 @@
 
 ## Hupu.com （ 2015.8 ~  ）
 
-### Live / Video IOS Client
-Another IOS app build in ReactNative, take charge of factory the component communicated width native script(Object-c & java), intergrate web url(html5) for sharing the link in Wechat.
+### Live / Video Client (both IOS and Android)
+The app build in ReactNative, take charge of factory the component communicated width native script(Object-c & java), intergrate web url(html5) for sharing the link in Wechat.
 
 
 ### Basket IOS Client
