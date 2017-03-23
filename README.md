@@ -11,7 +11,6 @@
  - College graduates/Shanghai JianQiao University, major in PLC control 
  - Experience：4 Years
  - expectation：Web Frontend Engineer / IOS for react native
- - hope salary：20k~25k
  - hope city：Shanghai Suzhou
 
 ---
@@ -19,6 +18,10 @@
 # Work Experience
 
 ## Hupu.com （ 2015.8 ~  ）
+
+### Live / Video IOS Client
+Another IOS app build in ReactNative, take charge of factory the component communicated width native script(Object-c & java), intergrate web url(html5) for sharing the link in Wechat.
+
 
 ### Basket IOS Client
 Use TypeScropt factory IOS client width ReactNative，Write general component，define the data tree，review the coding factoryed by subordinates, take charge of daily of management progress.
@@ -43,8 +46,8 @@ build clinet in Wechat business，write activity page in mobile browser widht HT
 
 ---
 # Skill
- - Web Develop：Node
- - Web Framework：Express
+ - Web Develop：Node/Python
+ - Web Framework：Express/Koa
  - Frontend Framework：Bootstrap/AngularJS/React/HTML5/ClosureLibrary/ReactNative/Vue/Egret ...
  - Frontend Implement：Bower/Gulp/SaSS/Less
  - Database：SQLite / MangoDB
@@ -62,4 +65,4 @@ build clinet in Wechat business，write activity page in mobile browser widht HT
  - Redux
  - Prototype
  - Websocket
- - Node / Express / Python(a little)
+ - Node / Express / Python
